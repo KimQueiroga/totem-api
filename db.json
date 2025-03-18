@@ -1,0 +1,20 @@
+{
+  "totens": [
+    {
+      "nome_totem": "ihpmgeco1totem1",
+      "id": 64,
+      "ip_local": "172.19.219.221",
+      "numero_patrimonio": ".",
+      "impressora_default": "ECO10001",
+      "ip_impressora": "10.31.113.208",
+      "porta_impressora": 9100,
+      "local_impressao": 1,
+      "tipo_impressao": "R",
+      "nome_unidade": "ECOAR 6760",
+      "leitor_codigo_barras": "S",
+      "versao_aplicacao": "1.9.9",
+      "primary_color": "orange",
+      "background_image": "background_ecoar.jpeg"
+    }
+  ]
+}
