@@ -15,6 +15,22 @@
       "versao_aplicacao": "1.9.9",
       "primary_color": "orange",
       "background_image": "background_ecoar.jpeg"
+    },
+    {
+      "nome_totem": "ihpmgccntotem1",
+      "id": 65,
+      "ip_local": "172.19.219.222",
+      "numero_patrimonio": "12345",
+      "impressora_default": "ECO10002",
+      "ip_impressora": "10.31.113.209",
+      "porta_impressora": 9100,
+      "local_impressao": 1,
+      "tipo_impressao": "R",
+      "nome_unidade": "ECOAR MATRIZ",
+      "leitor_codigo_barras": "S",
+      "versao_aplicacao": "1.9.9",
+      "primary_color": "red",
+      "background_image": "background_pardini.jpeg"
     }
   ]
 }
